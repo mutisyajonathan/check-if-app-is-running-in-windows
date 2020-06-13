@@ -8,7 +8,7 @@
             }
             input.close();
 
-            if (pidInfo.contains("xampp-control")) {
+            if (pidInfo.contains("app-name")) {
                //TODO
             }
         } catch (IOException e) {
